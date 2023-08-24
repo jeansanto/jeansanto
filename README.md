@@ -1,5 +1,7 @@
 ### Olá, meu nome Jean Conceição 🖖
 
+Faço Faculdade no Senac de Análise e Desenvolvimento de Sistemas a 2 anos, estou no 5 semestre em busca de ser um profissional full-stack.
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jean.conceicaodossantos.3)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-concei%C3%A7%C3%A3o-7516731b4/)
 
@@ -19,7 +21,3 @@
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img align="center" alt="point" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </div><br/>
-
-### Sobre
-
-Faço Faculdade no Senac de Análise e Desenvolvimento de Sistemas a 2 anos, estou no 5 semestre em busca de ser um profissional full-stack.
