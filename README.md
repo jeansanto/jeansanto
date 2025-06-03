@@ -2,6 +2,12 @@
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Desenvolvimento Full Stack
 
+## 📫 Conecte-se Comigo!
+
+### Email: jeansanto195@gmail.com
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-concei%C3%A7%C3%A3o-7516731b4/)
+
 ![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeansanto&show_icons=true&theme=radical)
 
 ### 🛠️ Tecnologias
@@ -28,3 +34,11 @@
 ### Análise e Desenvolvimento de Sistemas – SENAC (Conclusão em 2024)
 
 ### Certificados Udemy: PHP, SQL, Python, JavaScript
+
+## 🚀 Objetivo
+
+### Busco um estágio ou vaga júnior como Desenvolvedor (Full Stack, Backend ou Frontend) para:
+
+### Aplicar meus conhecimentos em projetos reais
+### Aprender com profissionais experientes
+### Crescer junto à equipe e agregar valor com minha dedicação
