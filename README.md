@@ -8,8 +8,6 @@
 
 Sou um **desenvolvedor Full Stack em formação** com formação em **Análise e Desenvolvimento de Sistemas** pelo SENAC (conclusão em 2024). Aos 31 anos, decidi transformar minha paixão por tecnologia em profissão e estou 100% focado em construir uma carreira sólida no desenvolvimento de software.
 
-Minha trajetória é marcada por **determinação e aprendizado contínuo**: mesmo sem experiência formal na área, investi em **6 certificações** e desenvolvi **8 projetos completos** que demonstram minha evolução técnica.
-
 Hoje, busco minha **primeira oportunidade** como desenvolvedor — seja como estagiário ou em uma vaga Júnior — onde possa aplicar meus conhecimentos, aprender com profissionais experientes e agregar valor à equipe.
 
 ---
