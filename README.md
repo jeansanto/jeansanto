@@ -35,7 +35,7 @@ Hoje, busco minha **primeira oportunidade** como desenvolvedor — seja como est
 
 ---
 
-## 🛠️ Minha Stack
+## 📚 Tecnologias que estou estudando
 
 <div align="center">
   
@@ -56,7 +56,6 @@ Hoje, busco minha **primeira oportunidade** como desenvolvedor — seja como est
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
