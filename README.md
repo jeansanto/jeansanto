@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Jean Conceição Dos Santos
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack+em+formação;+31+anos+%7C+Recém-formado+em+ADS;+Em+transição+de+carreira+para+a+programação;+8+projetos+concluídos+%7C+6+certificados;+Buscando+primeira+oportunidade+na+área)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack+em+formação)](https://git.io/typing-svg)
 
 ---
 
