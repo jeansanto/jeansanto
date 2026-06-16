@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou um **desenvolvedor em transição de carreira** com formação em **Análise e Desenvolvimento de Sistemas** pelo SENAC (conclusão em 2024). Aos 31 anos, decidi transformar minha paixão por tecnologia em profissão e estou 100% focado em construir uma carreira sólida no desenvolvimento de software.
+Sou um **desenvolvedor Full Stack em formação** com formação em **Análise e Desenvolvimento de Sistemas** pelo SENAC (conclusão em 2024). Aos 31 anos, decidi transformar minha paixão por tecnologia em profissão e estou 100% focado em construir uma carreira sólida no desenvolvimento de software.
 
 Minha trajetória é marcada por **determinação e aprendizado contínuo**: mesmo sem experiência formal na área, investi em **6 certificações** e desenvolvi **8 projetos completos** que demonstram minha evolução técnica.
 
@@ -59,7 +59,6 @@ Hoje, busco minha **primeira oportunidade** como desenvolvedor — seja como est
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
