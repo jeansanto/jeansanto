@@ -14,10 +14,6 @@ Hoje, busco minha **primeira oportunidade** como desenvolvedor — seja como est
 
 ## 🎯 Atualmente
 
-🚀 **Aprendendo e criando projetos**
-
-📚 Tecnologias em estudo: Node.js, Express, Next.js e Tailwind  
-💻 Projetos concluídos: 8 projetos com PHP, NestJS, React, JavaScript e SQL  
 🎯 Objetivo: Estágio ou vaga Júnior em Desenvolvimento Full Stack
 
 ---
