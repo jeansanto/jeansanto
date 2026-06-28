@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou um **desenvolvedor Full Stack em formação** com formação em **Análise e Desenvolvimento de Sistemas** pelo SENAC (conclusão em 2024). Aos 31 anos, decidi transformar minha paixão por tecnologia em profissão e estou 100% focado em construir uma carreira sólida no desenvolvimento de software.
+Sou um **desenvolvedor** com formação em **Análise e Desenvolvimento de Sistemas** pelo SENAC (conclusão em 2024). Aos 31 anos, decidi transformar minha paixão por tecnologia em profissão e estou 100% focado em construir uma carreira sólida no desenvolvimento de software.
 
 Hoje, busco minha **primeira oportunidade** como desenvolvedor — seja como estagiário ou em uma vaga Júnior — onde possa aplicar meus conhecimentos, aprender com profissionais experientes e agregar valor à equipe.
 
@@ -73,7 +73,6 @@ Hoje, busco minha **primeira oportunidade** como desenvolvedor — seja como est
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-concei%C3%A7%C3%A3o-7516731b4/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeansanto195@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeansanto)
 
 ---
