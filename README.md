@@ -59,8 +59,7 @@ Estágio ou vaga Júnior em Desenvolvimento Full Stack
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansanto&layout=compact" />
+https://streak-stats.demolab.com/?user=jeansanto&theme=tokyonight
 
 </div>
 
