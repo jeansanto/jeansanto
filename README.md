@@ -6,26 +6,26 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou um **desenvolvedor** com formação em **Análise e Desenvolvimento de Sistemas** pelo SENAC (conclusão em 2024). Aos 31 anos, decidi transformar minha paixão por tecnologia em profissão e estou 100% focado em construir uma carreira sólida no desenvolvimento de software.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pelo SENAC (2024). Decidi seguir carreira na área de tecnologia e hoje estou focado em construir minha primeira oportunidade como desenvolvedor.
 
-Hoje, busco minha **primeira oportunidade** como desenvolvedor — seja como estagiário ou em uma vaga Júnior — onde possa aplicar meus conhecimentos, aprender com profissionais experientes e agregar valor à equipe.
+Busco uma vaga de **estágio ou júnior em desenvolvimento Full Stack**, onde possa evoluir tecnicamente e contribuir com projetos reais.
 
 ---
 
-## 🎯 Atualmente
+## 🎯 Objetivo
 
-🎯 Objetivo: Estágio ou vaga Júnior em Desenvolvimento Full Stack
+Estágio ou vaga Júnior em Desenvolvimento Full Stack
 
 ---
 
 ## 🏆 Formação e Certificações
 
 ### 🎓 Formação Acadêmica
-- **Análise e Desenvolvimento de Sistemas** — SENAC (Conclusão: 2024)
+- Análise e Desenvolvimento de Sistemas — SENAC (2024)
 
 ### 📜 Certificados (Udemy)
 | Curso | Nível |
-|-------|-------|
+|------|--------|
 | Python | Básico ao Avançado |
 | PHP | Básico ao Intermediário |
 | JavaScript e TypeScript | Básico ao Avançado |
@@ -35,10 +35,10 @@ Hoje, busco minha **primeira oportunidade** como desenvolvedor — seja como est
 
 ---
 
-## 📚 Tecnologias que estou estudando
+## 🧠 Tecnologias em estudo e prática
 
 <div align="center">
-  
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,7 +50,6 @@ Hoje, busco minha **primeira oportunidade** como desenvolvedor — seja como est
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
@@ -59,7 +58,10 @@ Hoje, busco minha **primeira oportunidade** como desenvolvedor — seja como est
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansanto&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansanto&show_icons=true&theme=tokyonight&count_private=true"/>
+
+</div>
 
 ---
 
@@ -72,10 +74,8 @@ Hoje, busco minha **primeira oportunidade** como desenvolvedor — seja como est
 
 ## 💬 Vamos conversar?
 
-Estou aberto a **networking**, **trocas de conhecimento** e, claro, **oportunidades profissionais**!
-
-Se você é recrutador, tech lead ou alguém da área, fique à vontade para me chamar. Adoro conectar com pessoas que compartilham a paixão por tecnologia.
+Estou aberto a networking e oportunidades na área de desenvolvimento.
 
 ---
 
-⭐ *"A jornada de mil projetos começa com um único commit."* ⭐
+⭐ "A jornada de mil projetos começa com um único commit." ⭐
