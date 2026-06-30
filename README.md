@@ -54,50 +54,7 @@ Estágio ou vaga Júnior em Desenvolvimento Full Stack
 
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <br/>
-  
-  <!-- Cards principais -->
-  <a href="https://github.com/jeansanto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansanto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs&cache_seconds=86400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansanto&layout=compact&langs_count=6&theme=radical&cache_seconds=86400"/>
-  </a>
-
-  <!-- Streak Stats -->
-  <br/><br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeansanto&theme=radical&hide_border=true&cache_seconds=86400"/>
-  </a>
-
-  <!-- Troféus -->
-  <br/><br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jeansanto&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&cache_seconds=86400"/>
-  </a>
-
-  <!-- Contador de Visitas -->
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=jeansanto&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views" />
-
-  <br/>
-</div>
-
----
 
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-concei%C3%A7%C3%A3o-7516731b4/)
-
----
-
-## 💬 Vamos conversar?
-
-Estou aberto a networking e oportunidades na área de desenvolvimento.
-
----
-
-⭐ "A jornada de mil projetos começa com um único commit." ⭐
