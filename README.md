@@ -59,7 +59,15 @@ Estágio ou vaga Júnior em Desenvolvimento Full Stack
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-https://streak-stats.demolab.com/?user=jeansanto&theme=tokyonight
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansanto&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansanto&layout=compact&langs_count=8&theme=radical" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeansanto&theme=radical)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jeansanto&theme=radical&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://komarev.com/ghpvc/?username=jeansanto&color=blueviolet&style=flat-square" alt="Profile views" />
 
 </div>
 
