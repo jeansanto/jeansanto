@@ -59,16 +59,31 @@ Estágio ou vaga Júnior em Desenvolvimento Full Stack
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <br/>
+  
+  <!-- Cards principais -->
+  <a href="https://github.com/jeansanto">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansanto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansanto&layout=compact&langs_count=6&theme=radical&cache_seconds=86400"/>
+  </a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansanto&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansanto&layout=compact&langs_count=8&theme=radical" />
+  <!-- Streak Stats -->
+  <br/><br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeansanto&theme=radical&hide_border=true&cache_seconds=86400"/>
+  </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeansanto&theme=radical)](https://git.io/streak-stats)
+  <!-- Troféus -->
+  <br/><br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jeansanto&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&cache_seconds=86400"/>
+  </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jeansanto&theme=radical&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  <!-- Contador de Visitas -->
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=jeansanto&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views" />
 
-<img src="https://komarev.com/ghpvc/?username=jeansanto&color=blueviolet&style=flat-square" alt="Profile views" />
-
+  <br/>
 </div>
 
 ---
