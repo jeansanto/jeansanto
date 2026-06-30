@@ -6,9 +6,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** pelo SENAC (2024). Decidi seguir carreira na área de tecnologia e hoje estou focado em construir minha primeira oportunidade como desenvolvedor.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pelo SENAC (2024). Decidi seguir carreira na área de tecnologia e hoje estou focado em conquistar minha primeira oportunidade como desenvolvedor.
 
-Busco uma vaga de **estágio ou júnior em desenvolvimento Full Stack**, onde possa evoluir tecnicamente e contribuir com projetos reais.
+Busco uma vaga de **estágio ou júnior em desenvolvimento Full Stack**, onde eu possa evoluir tecnicamente e contribuir com projetos reais.
 
 ---
 
@@ -37,7 +37,7 @@ Estágio ou vaga Júnior em Desenvolvimento Full Stack
 
 ## 🧠 Tecnologias em estudo e prática
 
-## 🧠 Tecnologias em estudo e prática
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -51,6 +51,8 @@ Estágio ou vaga Júnior em Desenvolvimento Full Stack
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
@@ -67,6 +69,7 @@ Estágio ou vaga Júnior em Desenvolvimento Full Stack
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-concei%C3%A7%C3%A3o-7516731b4/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeansanto)
 
 ---
 
