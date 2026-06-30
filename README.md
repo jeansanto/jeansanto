@@ -60,8 +60,7 @@ Estágio ou vaga Júnior em Desenvolvimento Full Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansanto&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansanto&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansanto&layout=compact" />
 
 </div>
 
